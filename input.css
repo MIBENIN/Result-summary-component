@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-size: 18px;
+}
+h4{
+    @apply text-lightLavender; 
+}
+span{
+    @apply text-darkGrayBlue;
+}
+.cards{
+    @apply flex justify-center items-center flex-col gap-4;
+}
+.summary-card{
+    @apply w-full flex justify-between items-center gap-2 p-4 rounded-lg;
+ }
