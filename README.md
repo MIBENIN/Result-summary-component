@@ -24,10 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-- Mobile version 
+- Mobile version
+
 ![mobile version](./screenshots/mobile_version.png)
 
 - Desktop version
+
 ![dDesktop version](./screenshots/desktop_version.png)
 
 ### Links
@@ -47,11 +49,7 @@ Users should be able to:
 ### What I learned
 
   I learned to host tailwind projects to github and build live site using github pages
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
+  
 ## Author
 
 - Coded by Benin S
